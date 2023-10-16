@@ -127,4 +127,15 @@ Setting Up Interception
 
     // Or via ASP.NET Core services configuration
     builder.Services.AddDbContext(options=> options.AddInterceptors(new MyInterceptor());
+	
+	
+	In Entity
+	
+	public string FullNmae => FName + LName ; // not mapped to DB as no SET Accessor
+	
+	[NotMapped]
+	public string Address {get;set;}
+	
+	
+
  */ 

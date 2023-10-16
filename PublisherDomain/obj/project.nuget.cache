@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RSVAvRpFYfraHbJVpVs/t9z56l9z9IVpLJDmDw66kE9f5dNv0UTRfQjwy2/cYAdo4J+Vp2Z5d6nsH/ebExD/qA==",
+  "dgSpecHash": "0jQGh6BHtj+QMdp8Qe3PNmFapK8DGFQHJVrsLJ8qxPNA3LcwC4DlasmqbQkI0SrKSrDvozUAOJBuIKfgvoU7uw==",
   "success": true,
-  "projectFilePath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherDomain\\PublisherDomain.csproj",
+  "projectFilePath": "D:\\Akshay\\DotNet\\EF core6\\PublisherDomain\\PublisherDomain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

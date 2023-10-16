@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\Publisher.Api\\Publisher.Api.csproj": {}
+    "D:\\Akshay\\DotNet\\EF core6\\Publisher.Api\\Publisher.Api.csproj": {}
   },
   "projects": {
-    "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\Publisher.Api\\Publisher.Api.csproj": {
+    "D:\\Akshay\\DotNet\\EF core6\\Publisher.Api\\Publisher.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\Publisher.Api\\Publisher.Api.csproj",
+        "projectUniqueName": "D:\\Akshay\\DotNet\\EF core6\\Publisher.Api\\Publisher.Api.csproj",
         "projectName": "Publisher.Api",
-        "projectPath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\Publisher.Api\\Publisher.Api.csproj",
+        "projectPath": "D:\\Akshay\\DotNet\\EF core6\\Publisher.Api\\Publisher.Api.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\Publisher.Api\\obj\\",
+        "outputPath": "D:\\Akshay\\DotNet\\EF core6\\Publisher.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherData\\PublisherData.csproj": {
-                "projectPath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherData\\PublisherData.csproj"
+              "D:\\Akshay\\DotNet\\EF core6\\PublisherData\\PublisherData.csproj": {
+                "projectPath": "D:\\Akshay\\DotNet\\EF core6\\PublisherData\\PublisherData.csproj"
               },
-              "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherDomain\\PublisherDomain.csproj": {
-                "projectPath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherDomain\\PublisherDomain.csproj"
+              "D:\\Akshay\\DotNet\\EF core6\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "D:\\Akshay\\DotNet\\EF core6\\PublisherDomain\\PublisherDomain.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherData\\PublisherData.csproj": {
+    "D:\\Akshay\\DotNet\\EF core6\\PublisherData\\PublisherData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherData\\PublisherData.csproj",
+        "projectUniqueName": "D:\\Akshay\\DotNet\\EF core6\\PublisherData\\PublisherData.csproj",
         "projectName": "PublisherData",
-        "projectPath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherData\\PublisherData.csproj",
+        "projectPath": "D:\\Akshay\\DotNet\\EF core6\\PublisherData\\PublisherData.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherData\\obj\\",
+        "outputPath": "D:\\Akshay\\DotNet\\EF core6\\PublisherData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,8 +120,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherDomain\\PublisherDomain.csproj": {
-                "projectPath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherDomain\\PublisherDomain.csproj"
+              "D:\\Akshay\\DotNet\\EF core6\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "D:\\Akshay\\DotNet\\EF core6\\PublisherDomain\\PublisherDomain.csproj"
               }
             }
           }
@@ -166,14 +166,14 @@
         }
       }
     },
-    "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherDomain\\PublisherDomain.csproj": {
+    "D:\\Akshay\\DotNet\\EF core6\\PublisherDomain\\PublisherDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherDomain\\PublisherDomain.csproj",
+        "projectUniqueName": "D:\\Akshay\\DotNet\\EF core6\\PublisherDomain\\PublisherDomain.csproj",
         "projectName": "PublisherDomain",
-        "projectPath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherDomain\\PublisherDomain.csproj",
+        "projectPath": "D:\\Akshay\\DotNet\\EF core6\\PublisherDomain\\PublisherDomain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Akshay\\DotNet\\EF core 3 projects\\Basic 1.0\\PublisherDomain\\obj\\",
+        "outputPath": "D:\\Akshay\\DotNet\\EF core6\\PublisherDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
