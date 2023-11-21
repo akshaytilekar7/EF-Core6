@@ -11,8 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PublisherData", "PublisherD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1B4F52E-BBE3-4212-99FA-74EC0D276620}"
 	ProjectSection(SolutionItems) = preProject
-		Notes\EfCore6_1.cs = Notes\EfCore6_1.cs
-		Notes\EfCore6_2.cs = Notes\EfCore6_2.cs
+		EfCore6_1.cs = EfCore6_1.cs
+		EfCore6_2.cs = EfCore6_2.cs
 		EfCore6_3.cs = EfCore6_3.cs
 		EfCore6_4.cs = EfCore6_4.cs
 		EfCore6_5.cs = EfCore6_5.cs
@@ -20,7 +20,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		EfCore6_7.cs = EfCore6_7.cs
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher.Api", "Publisher.Api\Publisher.Api.csproj", "{61BE0670-F184-415A-A748-E70F05A9294F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Publisher.Api", "Publisher.Api\Publisher.Api.csproj", "{61BE0670-F184-415A-A748-E70F05A9294F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EF 2", "EF 2", "{F56AE9D9-7229-42D9-833C-74D5B2A306B8}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Admin\Dropbox\My PC (LAPTOP-1CFGPDON)\Downloads\ef-core-6-mapping-real-world-cases\04\demos\Demo 1\CarvedRock\CarvedRock.DataAccess\Migrations\20221001091402_GetOrders.cs = C:\Users\Admin\Dropbox\My PC (LAPTOP-1CFGPDON)\Downloads\ef-core-6-mapping-real-world-cases\04\demos\Demo 1\CarvedRock\CarvedRock.DataAccess\Migrations\20221001091402_GetOrders.cs
+		C:\Users\Admin\Dropbox\My PC (LAPTOP-1CFGPDON)\Downloads\ef-core-6-mapping-real-world-cases\04\demos\Demo 1\CarvedRock\CarvedRock.DataAccess\Migrations\20221001091812_GetOrdersByCustomerId.cs = C:\Users\Admin\Dropbox\My PC (LAPTOP-1CFGPDON)\Downloads\ef-core-6-mapping-real-world-cases\04\demos\Demo 1\CarvedRock\CarvedRock.DataAccess\Migrations\20221001091812_GetOrdersByCustomerId.cs
+		C:\Users\Admin\Dropbox\My PC (LAPTOP-1CFGPDON)\Downloads\ef-core-6-mapping-real-world-cases\04\demos\Demo 1\CarvedRock\CarvedRock.DataAccess\Migrations\20221001094721_CustomerOrdersView.cs = C:\Users\Admin\Dropbox\My PC (LAPTOP-1CFGPDON)\Downloads\ef-core-6-mapping-real-world-cases\04\demos\Demo 1\CarvedRock\CarvedRock.DataAccess\Migrations\20221001094721_CustomerOrdersView.cs
+		CallingSP.cs = CallingSP.cs
+		CallingView.cs = CallingView.cs
+		C:\Users\Admin\Dropbox\My PC (LAPTOP-1CFGPDON)\Downloads\ef-core-6-mapping-real-world-cases\04\demos\Demo 1\CarvedRock\CarvedRock.DataAccess\Models\CustomerOrder.cs = C:\Users\Admin\Dropbox\My PC (LAPTOP-1CFGPDON)\Downloads\ef-core-6-mapping-real-world-cases\04\demos\Demo 1\CarvedRock\CarvedRock.DataAccess\Models\CustomerOrder.cs
+		EFCore2_1.cs = EFCore2_1.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +58,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F56AE9D9-7229-42D9-833C-74D5B2A306B8} = {F1B4F52E-BBE3-4212-99FA-74EC0D276620}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {959D76DA-7FA8-447D-8384-844C78629D77}

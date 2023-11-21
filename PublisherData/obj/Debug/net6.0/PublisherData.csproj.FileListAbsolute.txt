@@ -30,20 +30,3 @@ D:\Akshay\DotNet\EF core 3 projects\Basic 1.0\PublisherData\obj\Debug\net6.0\ref
 D:\Akshay\DotNet\EF core 3 projects\Basic 1.0\PublisherData\obj\Debug\net6.0\PublisherData.pdb
 D:\Akshay\DotNet\EF core 3 projects\Basic 1.0\PublisherData\obj\Debug\net6.0\PublisherData.genruntimeconfig.cache
 D:\Akshay\DotNet\EF core 3 projects\Basic 1.0\PublisherData\obj\Debug\net6.0\ref\PublisherData.dll
-D:\Akshay\DotNet\EF core6\PublisherData\bin\Debug\net6.0\PublisherData.deps.json
-D:\Akshay\DotNet\EF core6\PublisherData\bin\Debug\net6.0\PublisherData.runtimeconfig.json
-D:\Akshay\DotNet\EF core6\PublisherData\bin\Debug\net6.0\PublisherData.dll
-D:\Akshay\DotNet\EF core6\PublisherData\bin\Debug\net6.0\PublisherData.pdb
-D:\Akshay\DotNet\EF core6\PublisherData\bin\Debug\net6.0\PublisherDomain.dll
-D:\Akshay\DotNet\EF core6\PublisherData\bin\Debug\net6.0\PublisherDomain.pdb
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\PublisherData.csproj.AssemblyReference.cache
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\PublisherData.GeneratedMSBuildEditorConfig.editorconfig
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfoInputs.cache
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfo.cs
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CoreCompileInputs.cache
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CopyComplete
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\PublisherData.dll
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\refint\PublisherData.dll
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\PublisherData.pdb
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\PublisherData.genruntimeconfig.cache
-D:\Akshay\DotNet\EF core6\PublisherData\obj\Debug\net6.0\ref\PublisherData.dll
